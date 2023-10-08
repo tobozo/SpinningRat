@@ -2,7 +2,9 @@
 
 A low-poly 3D spinning rat animated in music.
 
-https://github.com/tobozo/SpinningRat/assets/1893754/8260bfbd-7d48-419b-805d-04fb046e64a9
+
+https://github.com/tobozo/SpinningRat/assets/1893754/2035e08c-a7ce-4c7e-9fe7-9f8fabceca91
+
 
 Inspiration: https://knowyourmeme.com/memes/horizontally-spinning-rat
 
