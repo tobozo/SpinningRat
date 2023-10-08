@@ -1,9 +1,8 @@
-# ESP32 Horizontally Spinning Rat
+# Horizontally Spinning Rat for M5Unified
 
-Just a low-poly 3D spinning rat animated in music.
+A low-poly 3D spinning rat animated in music.
 
-[![Watch the video](./assets/RotatingRat.png)](./assets/RotatingRat.mp4)
-
+[<img src="assets/RotatingRat.png" width="500">](assets/RotatingRat.mp4)
 
 Inspiration: https://knowyourmeme.com/memes/horizontally-spinning-rat
 
