@@ -22,7 +22,7 @@
 // 3D and audio assets
 #include "./audio.h"
 #include "./free_bird.h"
-#include "rat.h"
+#include "./rat.h"
 
 /// set M5Speaker virtual channel (0-7)
 static constexpr uint8_t m5spk_virtual_channel = 0;
@@ -78,22 +78,6 @@ tgx::fMat4 moveModel(int& loopnumber)
     ty = 0;
   } else {
     t -= end1;
-    // if (t < end2) { // zooming in
-    //   t /= end2;
-    //   tz = -25 + 18 * t;
-    //   ty = -6.5f * t;
-    // } else {
-    //   t -= end2;
-    //   if (t < end3) { // close up
-    //     tz = -7;
-    //     ty = -6.5f;
-    //   } else { // zooming out
-    //     t -= end3;
-    //     t /= end4;
-    //     tz = -7 - 18 * t;
-    //     ty = -6.5 + 6.5 * t;
-    //   }
-    // }
   }
 
   fMat4 M;
